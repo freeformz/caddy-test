@@ -1,5 +1,7 @@
-localhost
+0.0.0.0
 
 gzip
 browse
 ext .html
+markdown /examples/markdown
+basicauth /examples/basicauth keepit secret
